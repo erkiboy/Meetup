@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "leaky-server": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "some-package@1.0.0"],
+      "env": {
+        "API_KEY": "sk-1234567890abcdef"
+      }
+    }
+  }
+}

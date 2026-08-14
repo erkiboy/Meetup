@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "http-bad": {
+      "type": "http",
+      "url": "https://example.com/mcp",
+      "command": "npx"
+    }
+  }
+}

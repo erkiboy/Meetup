@@ -1,0 +1,26 @@
+{
+  "name": "plugin-playground",
+  "owner": {
+    "name": "at00216844"
+  },
+  "metadata": {
+    "description": "Team marketplace for version-controlled GitHub Copilot CLI skills and reviewed MCP configurations.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "plugin-playground",
+      "description": "Example skills and reviewed MCP configuration patterns for GitHub Copilot CLI.",
+      "version": "0.1.0",
+      "author": {
+        "name": "at00216844"
+      },
+      "homepage": "https://github.com/at00216844/plugin-playground",
+      "repository": "https://github.com/at00216844/plugin-playground",
+      "keywords": ["copilot-cli", "skills", "mcp"],
+      "license": "MIT",
+      "source": "./plugins/plugin-playground",
+      "strict": true
+    }
+  ]
+}

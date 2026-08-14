@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "Bad_Server": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "some-package@1.0.0"]
+    }
+  }
+}

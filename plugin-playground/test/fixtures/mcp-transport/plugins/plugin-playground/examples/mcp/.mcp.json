@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "bad-server": {
+      "type": "grpc",
+      "command": "npx",
+      "args": ["-y", "some-package@1.0.0"]
+    }
+  }
+}

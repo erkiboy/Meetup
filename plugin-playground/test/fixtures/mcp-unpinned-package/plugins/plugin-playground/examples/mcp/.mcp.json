@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "unpinned-server": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "some-package"]
+    }
+  }
+}

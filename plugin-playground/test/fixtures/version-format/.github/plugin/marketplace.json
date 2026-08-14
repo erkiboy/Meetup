@@ -1,0 +1,19 @@
+{
+  "name": "plugin-playground",
+  "owner": { "name": "at00216844" },
+  "metadata": { "description": "test", "version": "0.1.0" },
+  "plugins": [
+    {
+      "name": "plugin-playground",
+      "description": "Example skills.",
+      "version": "not-semver",
+      "author": { "name": "at00216844" },
+      "homepage": "https://github.com/at00216844/plugin-playground",
+      "repository": "https://github.com/at00216844/plugin-playground",
+      "keywords": [],
+      "license": "MIT",
+      "source": "./plugins/plugin-playground",
+      "strict": true
+    }
+  ]
+}

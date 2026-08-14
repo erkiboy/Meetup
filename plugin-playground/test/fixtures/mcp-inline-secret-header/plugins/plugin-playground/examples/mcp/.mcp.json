@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "remote-server": {
+      "type": "sse",
+      "url": "https://example.com/mcp",
+      "headers": {
+        "Authorization": "Bearer sk-1234567890abcdefghij"
+      }
+    }
+  }
+}
